@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Jose A Ferre Rico
+Main-Class: CalcuSKin
+X-COMMENT: Practica Calculadora
